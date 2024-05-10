@@ -1,6 +1,6 @@
-site_name: Hyperledger _PROJECT_
+site_name: Hyperledger Caliper documentation platform update
 repo_name: hyperledger-labs/documentation-template
-repo_url: https://github.com/hyperledger-labs/documentation-template
+repo_url: https://github.com/hyperledger/caliper
 theme:
   name: material
   custom_dir: overrides
