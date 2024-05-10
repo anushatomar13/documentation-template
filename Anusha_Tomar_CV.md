@@ -1,7 +1,7 @@
 # Anusha Tomar
 
 Email: anushatomar913@gmail.com  
-Mobile: +919068946349
+Mobile: +91X0000001
 
 ## Useful Links
 - [LinkedIn ](https://www.linkedin.com/in/anushatomar/)
