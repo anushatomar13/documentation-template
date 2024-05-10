@@ -87,4 +87,3 @@ Integrate Caliper into your CI/CD pipeline by invoking `npm run caliper launch` 
 
 When upgrading Caliper, review the release notes for any changes that may impact your tests or configurations.
 
-This guide covers the key aspects of operating Hyperledger Caliper. Refer to the official documentation for more details on advanced topics like creating custom tests, interpreting reports, and integrating with blockchain deployments.
