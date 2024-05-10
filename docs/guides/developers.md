@@ -106,4 +106,3 @@ mkdocs build
 
 The built documentation will be in the `site/` directory.
 
-This guide covers the essential aspects of developing and contributing to Hyperledger Caliper. For more detailed information, refer to the official documentation and the project's contribution guidelines.
