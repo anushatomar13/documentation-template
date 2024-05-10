@@ -55,5 +55,3 @@ For major version upgrades, in addition to the steps above, you may need to take
 
 4. **Start fresh (optional)**
     - For significant upgrades with many breaking changes, you may want to start with a fresh Caliper installation rather than upgrading in-place.
-
-Always refer to the official documentation and release notes for the specific version you are upgrading to. They will provide the most accurate and up-to-date information on the upgrade process and any potential issues to be aware of.
