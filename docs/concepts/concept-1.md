@@ -19,7 +19,7 @@
     - Tailor language and examples to the target audience's skill level
 
 ### - Utilize tools like Markdown, Document360, Nuclino for efficient contributions
-    - Leverage Markdown for structured and formatted documentation
-    - Use Document360 or Nuclino for collaborative editing and version control
-    - Streamline the documentation process with efficient tooling
+    - Use Markdown for structured and formatted documentation
+    - Use technical writing tools like Nuclino for collaborative editing and version control
+    
 
