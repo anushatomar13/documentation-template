@@ -17,7 +17,7 @@
     - Adopt a neutral communication style suitable for a global audience
     - Avoid regionalisms or culturally-specific references
 
-### Leverage language skills (English, French) for potential translation efforts
+### Leverage language skills for potential translation efforts
     - Review documentation for opportunities to provide translations
     - Collaborate with native speakers to ensure accurate and idiomatic translations
     - Explore options for creating multi-language versions of the documentation
